@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 메인 페이지 -->
   <url>
     <loc>https://alsxm3636.github.io/</loc>
     <priority>1.0</priority>
   </url>
+
+  <!-- 구글 인증 파일 -->
   <url>
     <loc>https://alsxm3636.github.io/googled1aff72ea83086da.html</loc>
     <priority>0.5</priority>
+  </url>
+
+  <!-- 인테리어 관련 서브페이지 -->
+  <url>
+    <loc>https://alsxm3636.github.io/interior.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://alsxm3636.github.io/remodeling.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://alsxm3636.github.io/cafe.html</loc>
+    <priority>0.9</priority>
   </url>
 </urlset>
